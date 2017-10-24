@@ -1,0 +1,20 @@
+This is the name of the latest Android version.:Oreo
+This is the name of the previous version to the above:Nougat
+This is the name of the first named Android version.:Alpha
+This subfolder of app/src/main contains your app’s Java source code.:Java
+This subfolder of app/src/main contains all the resources of your app such as layout files, images, themes and strings.:Res
+This is what Android calls what in other programming environments might be called ‘forms’ or ‘screens’ that the user interacts with.:Activities
+An Android APK file has more in common with this type of file than an .exe file.:Zip file
+This file contains essential information about your app such as activities, services, permission, intents and basic information like the application name.:AndroidManifest.xml
+Lists the Android API build target.Build.:Gradle
+Android's kernel is based on this technology.:Linux
+Android uses this virtual machine with just-in-time compilation.:Dalvik Virtual Machine
+Android applications run in this isolated area of the operating system without access to the rest of the system's resources, unless access permissions are granted by the user at installation time.:Sandbox
+The Android Open Source Project (AOSP) is led by this entity.:Google
+The text that is displayed in an Android application should be stored in this file.:Strings XML file
+This is the dedicated build system for Android introduced by and supported by Google that replaces Maven and other open source tools for the same purpose.:Gradle
+Android uses this technology to control the layout of the user interface.:XML
+This Google supported IDE enables developers to create applications for the Android platform.:Android Studio
+This is an open source integrated digital content destination that lets developers distribute applications.:Google Play Store
+This is the database technology native to android.:SQLite
+Android Runtime consists of these components.:Core Libraries and Dalvik Virtual Machine
